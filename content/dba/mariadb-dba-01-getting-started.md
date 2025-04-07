@@ -88,9 +88,9 @@ Reload the systemd daemon
 # systemctl restart mariadb
 ```
 
-## UPGRADING MARIADB
+### UPGRADING MARIADB
 
-### What To Consider
+#### What To Consider
 
 - Review release notes
   (major and minor version upgrades)
@@ -101,7 +101,7 @@ Reload the systemd daemon
 
 - Rolling restart available with MariaDB Cluster
 
-### What To Prepare
+#### What To Prepare
 
 - Backup Data
 
