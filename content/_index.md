@@ -4,4 +4,4 @@ draft: false
 title: 'MariaDB for Universities Course Material'
 ---
 
-These are the sets of training materials currently shared by MariaDB Foundation that can be improved on. Content has been provided by MariaDB plc.
+These are the sets of training materials currently <a href ="https://github.com/MariaDB/mariadb-for-universities">shared by MariaDB Foundation</a> and can be improved on. Content has been released by MariaDB plc for non-commercial use with CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International). 
