@@ -8,7 +8,7 @@ weight: 1
 toc: true
 ---
 
-# GETTING STARTED
+# Getting started
 
 ## Learning Objectives
 
